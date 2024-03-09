@@ -22,11 +22,11 @@ public class TitleScript : MonoBehaviour
     }
     public void startbutton()
     {
-        SceneManager.LoadScene(sceneBuildIndex: 3);
+        SceneManager.LoadScene(sceneBuildIndex: 2);
 
     }
     public void creditbutton()
     {
-        SceneManager.LoadScene(sceneBuildIndex: 2);
+        SceneManager.LoadScene(sceneBuildIndex: 1);
     }
 }
