@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/TitleScreen.unity
     guid: c4d67f164209c5644b6f2c9ba65a1fb1
   - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 036fd0656ea9b834fae3adbb61281f4e
+  - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: b1c4ba0ddee6e664c909169c372b84b5
   - enabled: 1
