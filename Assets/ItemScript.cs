@@ -4,7 +4,14 @@ using UnityEngine;
 
 public class ItemScript : MonoBehaviour
 {
-    // Start is called before the first frame update
+    public GameObject Closet;
+    public GameObject Hoodie;
+    public GameObject PictureFrame;
+    public GameObject Plush;
+    public GameObject Bed;
+    public GameObject Lamp;
+
+   // Start is called before the first frame update
     void Start()
     {
         
