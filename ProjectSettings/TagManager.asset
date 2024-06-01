@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bow1
+  - Bow2
+  - Bow3
+  - Killplane
   layers:
   - Default
   - TransparentFX
